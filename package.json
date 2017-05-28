@@ -1,0 +1,20 @@
+{
+  "name": "template-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page template for Web Agency",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Duckess/template-landing-page"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "author": "Teodora Jordanova",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
